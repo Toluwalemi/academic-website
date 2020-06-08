@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Pulp and Paper Science and Wood Quality
 
 # Organizations/Affiliations
 organizations:
@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Wood Science
+    institution: University of Ibadan
+    year: 2001
+  - course: MSc in Wood Science
+    institution: University of Ibadan
+    year: 1988
+  - course: BSc in Forest Resources Management
+    institution: University of Ibadan
     year: 2008
 
 # Social/Academic Networking
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Abiodun Oluwafemi Oluwadare is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abiodun Oluwafemi Oluwadare is a professor of pulp and paper science and wood quality at the University of Ibadan. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
