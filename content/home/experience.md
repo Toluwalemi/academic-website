@@ -17,8 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-
 [[experience]]
   title = "Professor"
   company = "University of Ibadan"
@@ -26,16 +24,6 @@ date_format = "Jan 2006"
   location = "Ibadan"
   date_start = "2012-10-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
-
-[[experience]]
-  title = "Senior Research Officer"
-  company = "FIIRO"
-  company_url = "http://www.fiiro.org/"
-  location = "Lagos"
-  date_start = "1989"
-  date_end = "1998"
   description = """
   Responsibilities include:
   
